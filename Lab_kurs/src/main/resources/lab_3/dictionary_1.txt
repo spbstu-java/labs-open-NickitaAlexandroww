@@ -1,0 +1,15 @@
+river | река
+mountain | гора
+forest | лес
+flower | цветок
+bird | птица
+fish | рыба
+train | поезд
+bus | автобус
+bicycle | велосипед
+airplane | самолёт
+star | звезда
+sky | небо
+earth | земля
+fire | огонь
+heart | сердце
