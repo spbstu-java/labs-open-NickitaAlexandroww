@@ -1,0 +1,15 @@
+dream | мечта
+work | работа
+money | деньги
+time | время
+day | день
+night | ночь
+child | ребёнок
+man | мужчина
+woman | женщина
+hand | рука
+eye | глаз
+door | дверь
+road | дорога
+sea | море
+story | рассказ
